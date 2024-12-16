@@ -58,5 +58,4 @@ console.log(book);
 for (let b in book) {
   console.log(`${b}: ${book[b]}`);
 }
-checking
-lll
+message.style.height = Number.parseFloat(getComputedStyle(message).height, 10) + 30 + "px";
