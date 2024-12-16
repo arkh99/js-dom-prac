@@ -59,3 +59,4 @@ for (let b in book) {
   console.log(`${b}: ${book[b]}`);
 }
 checking
+lll
